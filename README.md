@@ -20,7 +20,7 @@ I'm an Applied Mathematician with experience in Dynamical Systems.
 
 🌎 Currently, I am working at Jagiellonian University at Kraków 🇵🇱. Before, I lived in Brazil 🇧🇷, Barcelona 🎗️, Uppsala 🇸🇪.
 
-💻 I use Python for scientific programming applied to problems in Celestial Mechanics.
+💻 I use Python (SciPy, NumPy,SymPy and Matplolib) for scientific programming applied to problems in Celestial Mechanics.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schaeferrodrigo&layout=compact)](https://github.com/schaeferrodrigo/github-readme-stats)
