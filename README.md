@@ -22,5 +22,7 @@ I'm an Applied Mathematician with experience in Dynamical Systems.
 
 💻 I use Python (SciPy, NumPy,SymPy and Matplolib) for scientific programming applied to problems in Celestial Mechanics.
 
+📚 I am studying C++, Julia and Data Science.
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schaeferrodrigo&layout=compact)](https://github.com/schaeferrodrigo/github-readme-stats)
