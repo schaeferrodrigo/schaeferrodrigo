@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm an Applied Mathematician with experience in Dynamical Systems. 
 
-🌎 Currently, I am working at Jagiellonian University at Kraków 🇵🇱. Before, I lived in Brazil 🇧🇷, Barcelona 🎗️, Uppsala 🇸🇪.
+🌎 Currently, I am working at ENTI-UB at Barcelona . Before, I lived in Brazil 🇧🇷, Barcelona 🎗️, Uppsala 🇸🇪 and Kraków 🇵🇱.
 
 💻 I use Python (SciPy, NumPy,SymPy and Matplolib) for scientific programming applied to problems in Celestial Mechanics.
 
